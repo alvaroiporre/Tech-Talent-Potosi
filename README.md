@@ -98,7 +98,7 @@ Clone this repository to your desired folder:
 To run the project, execute the following command:
 
 ```sh
-  Executing the command 'rails s' will start the server of this RoR app
+  Executing the command 'rails server' will start the server of this RoR app
 ```
 
 ### Testing
@@ -158,7 +158,7 @@ No deployment necessary
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](../issues/).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
