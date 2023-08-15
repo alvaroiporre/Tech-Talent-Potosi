@@ -158,7 +158,7 @@ No deployment necessary
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](issues/).
+Feel free to check the [issues page](https://github.com/alvaroiporre/Tech-Talent-Potosi/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
