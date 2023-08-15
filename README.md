@@ -11,7 +11,7 @@
 - [📖 About the Project](#about-project)
   - [🛠 Built With](#built-with)
     - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
+  <!-- - [🚀 Live Demo](#live-demo) -->
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
@@ -65,9 +65,9 @@ Welcome to the Potosi Tech Talent Blog Page Ruby on Rails app repository! This a
 
 <!-- LIVE DEMO -->
 
-## 🚀 Preview <a name="live-demo"></a>
+<!-- ## 🚀 Preview <a name="live-demo"></a>
 
-Will be implemented in the future
+Will be implemented in the future -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
